@@ -1,0 +1,31 @@
+.image-generator-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.image-generator-text10 {
+  display: inline-block;
+}
+ 
+.image-generator-text11 {
+  display: inline-block;
+}
+ 
+.image-generator-text12 {
+  display: inline-block;
+}
+ 
+.image-generator-text13 {
+  display: inline-block;
+}
+ 
+.image-generator-text18 {
+  display: inline-block;
+}
+ 
+.image-generator-text19 {
+  display: inline-block;
+}
